@@ -195,13 +195,13 @@ h4{
 .I4item{
     border:1px solid aquamarine;
     color: #404040;
-    box-shadow: 4px 4px 10px blueviolet;
+    box-shadow: 1px 1px 10px rgb(137, 143, 142);
     text-align: left;
     font-size: 25px;
     padding: 20px;
     width: 400px;
     height: 200px;
-    background-color: rgb(117, 19, 210);
+    background-color: lightgoldenrodyellow;
     border-radius: 20px;
     position: absolute;
     left: 40%;
